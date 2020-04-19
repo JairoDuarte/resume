@@ -1,0 +1,7 @@
+/public
+/node_modules
+test/
+coverage
+/helpers
+setup.js
+gatsby-config.js
